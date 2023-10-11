@@ -22,7 +22,7 @@ Make sure you have Python installed. You can download it from [python.org](https
 1. Clone the repository:
 
    ```
-   git clone https://github.com/rjghongade/stock-prediction.git
+   https://github.com/rjghongade/Stock_Prediction_Month.git
    ```
    
 When prompted, enter the stock symbol (e.g., AAPL for Apple Inc.).
